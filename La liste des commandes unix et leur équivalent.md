@@ -1,15 +1,25 @@
-**La liste des commandes unix et leur équivalent** 
+#bash : _cp_  
+#powershell : Copy-Item  
 
-get-help**cp** nom : **copy-item**   
+#bash : rm  
+#powershell : Remove-Item  
 
-get-help**cd** nom : **set-location**   
+#bash : cd  
+#powershell : Set-Location  
 
-get-help**man** nom : **Get-help**    
+#bash : mkdir  
+#powershell : New-Item  
 
-get-help**history** nom : **Get-history**     
+#bash : man  
+#powershell : Get-Help  
 
-get-help**Alias** nom : **Export-alias Get-alias import-alias new-alias set-alias**    
+#bash : history  
+#powershell : Get-History  
 
-get-help**cat** nom: **get-content**      
+#bash : alias  
+#powershell : Set-Alias  
 
- 
+#bash : cat  
+#powershell : Get-Content  
+#
+#Trouver les commandes : Get-Command
